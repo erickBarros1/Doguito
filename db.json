@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "nome": "erick",
+      "email": "erick_senha1@hotw",
+      "id": 1
+    },
+    {
+      "nome": "erick",
+      "email": "erick@www",
+      "id": 2
+    }
+  ]
+}
